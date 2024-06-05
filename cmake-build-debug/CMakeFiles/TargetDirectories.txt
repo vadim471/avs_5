@@ -1,0 +1,3 @@
+/Users/macbookair/ForthTerm/AVS/avs_5/cmake-build-debug/CMakeFiles/avs_5.dir
+/Users/macbookair/ForthTerm/AVS/avs_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbookair/ForthTerm/AVS/avs_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
